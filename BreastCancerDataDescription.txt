@@ -1,0 +1,33 @@
+BreastCancerData description
+##############################
+
+Simulated Data:  Oncotype DX marker in the breast cancer trial. 
+  358 observations with the following 30 variables. 
+
+trt: treatment assignment (trt = 1  chemo + tamoxifen/CAF-T; trt = 0 tamoxifen alone )
+
+D: five-year cancer recurrence or death (D = 1 is a bad outcome)
+
+RS: Recurrence Score
+
+blackrace: indicator for African American racial status 
+
+nodes4: indicator for number of positive nodes (1-3 vs 4) 
+
+pgr: ER/PgR status ([PR-neg and ER-pos]  versus [PR-pos and (ER-pos or ER-neg)]
+
+surgtime: Time of surgery (<= 6 weeks versus > 6 weeks)
+
+tumsiz: Tumor size (< 2cm; 2-5 cm; >=5cm), coded 1,2,3 resp. 
+
+age: age at randomization (years)
+
+grade: tumor grade 
+
+eraxis, her2axis, invasionaxis, prolaxis: axis values 
+
+BAG1_2 BCL2_2 CCNB1_2 CD68_2 CEGP1_2 CTSL2_1 ESTR1_1 GRB7_2 GSTM1_1 HER2_3 KI_67_2 MYBL2_1 PR_6 STK15_2 STMY3_3 SURV_2: gene expression values 
+
+
+
+

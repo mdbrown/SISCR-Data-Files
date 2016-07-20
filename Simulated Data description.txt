@@ -1,0 +1,6 @@
+SimulatedData description
+A = treatment assignment (A = 1 active treatment; A = 0 standard of care)
+X1 - X20 are markers
+D = clinical outcome (D = 1 is a bad outcome)
+
+

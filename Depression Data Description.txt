@@ -1,0 +1,10 @@
+Depression Data description
+GENDER: 1 female and 0 male 
+RACE: 1 white and 0 otherwise
+HAMABase: Pre-treatment Total HAMA Score 
+MOOD: IDSSR General/Mood Cognition score 
+SLEEP: HAMD Sleep Disturbance score 
+TRT:  1 combined therapy and 0 drug alone 
+HAMD: Hamilton rating scale (clinical outcome)
+ 
+ 

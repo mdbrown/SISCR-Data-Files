@@ -1,0 +1,41 @@
+HIVData description
+##############################
+
+Simulated HIV prevention trial data
+  RCT of PrEP vs. placebo for prevention of HIV infection in MSM.
+  2442 observations with the following 17 variables
+
+stime: time until hiv infection or censoring 
+
+hiv: indicator for hiv infection
+
+rx: treatment indicator (rx = 0 for placebo, rx = 1 for PrEP )
+
+trans: indicator for transgendered status 
+
+coded_age: factor for age  with levels 18_to_24, 25_to_29, gr_eq_30 
+
+secondaryed:  factor for education with levels  Missing, Post-Secondary, Secondary_or_less
+
+country: factor with country
+
+drink: factor for number of drinks in the past month
+
+cocaine:  cocaine use in past month 
+
+pospartner: intercourse with an HIV-positive partner in the past 3 months 
+
+unprotect: factor for sex without a condom with levels  Insertive_Only, 
+No_Unprot._Anal, Unprotect_Recept 
+
+partner_cat: number of male sex partners in last three months, factor with levels 1, 2_to_5 and gr5
+
+reportexchange: factor for transactional sex in the last 6 months
+
+reportsti: self reported sti infection in last 6 months 
+
+site: factor with site 
+
+baseline_syph: indicator for seropositive for syphilis at baseline 
+
+uiai: indicator for unprotected insertive anal intercourse
